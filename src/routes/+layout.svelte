@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<p>Visite o meu <a href="https://github.com/renatoalencarc">Github</a> para ver mais projetos!</p>
 	</footer>
 </div>
 
